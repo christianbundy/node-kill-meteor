@@ -1,0 +1,27 @@
+{
+  "name": "kill-meteor",
+  "version": "1.0.3",
+  "description": "Kill any and all Meteor application(s).",
+  "main": "kill-meteor.js",
+  "bin": "kill-meteor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christianbundy/node-kill-meteor.git"
+  },
+  "keywords": [
+    "kill",
+    "stop",
+    "end",
+    "meteor",
+    "meteorjs"
+  ],
+  "author": "Christian Bundy <me@christianbundy.com> (http://christianbundy.com/)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/christianbundy/node-kill-meteor/issues"
+  },
+  "homepage": "https://github.com/christianbundy/node-kill-meteor"
+}
