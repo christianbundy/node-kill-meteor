@@ -7,7 +7,7 @@ Kill any and all Meteor application(s).
 Install with the command-line.
 
 ```sh
-npm install kill-meteor
+npm install -g kill-meteor
 ```
 
 ## Usage
